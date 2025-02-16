@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/install
+
+Name: turtle_service
+Description: Description of turtle_service
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
